@@ -1,0 +1,1 @@
+public enum Steps { PREVIEW, STEP1, STEP2, STEP3, STEP4 };

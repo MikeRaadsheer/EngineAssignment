@@ -1,0 +1,45 @@
+{
+  "InstructionTitle": "Engine Model Instructions",
+  "Steps": [
+    {
+      "ObjectID": 97,
+      "Instruction": "Pull Lever",
+      "HighLightColor": {
+        "r": 1.0,
+        "g": 0.9215686321258545,
+        "b": 0.01568627543747425,
+        "a": 1.0
+      }
+    },
+    {
+      "ObjectID": 59,
+      "Instruction": "Check Pressure",
+      "HighLightColor": {
+        "r": 0.0,
+        "g": 0.9215686321258545,
+        "b": 0.01568627543747425,
+        "a": 1.0
+      }
+    },
+    {
+      "ObjectID": 122,
+      "Instruction": "Remove Cap",
+      "HighLightColor": {
+        "r": 1.0,
+        "g": 0.9215686321258545,
+        "b": 0.01568627543747425,
+        "a": 1.0
+      }
+    },
+    {
+      "ObjectID": 3,
+      "Instruction": "Tighten Handle",
+      "HighLightColor": {
+        "r": 1.0,
+        "g": 0.9215686321258545,
+        "b": 0.01568627543747425,
+        "a": 1.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+Task:
+Visualize 3D Model
+Load steps from "Engine_Instructions.json"
+Visualize steps data in World Space
+Create interactions to cycle between steps
+Optional: Camera Behaviour
+
+Base Requirements
+Unity 2019+
+C#
+Open source package / tools allowed
+Visual aesthetics are not rated
